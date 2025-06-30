@@ -1,0 +1,16 @@
+{
+  "name": "rerippling",
+  "version": "1.0.0",
+  "description": "Project to automatically Rippling clock-in",
+  "scripts": {
+    "test": "test",
+    "sendMonth": "node main.js"
+  },
+  "author": "Fran Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.0.0"
+  }
+}
